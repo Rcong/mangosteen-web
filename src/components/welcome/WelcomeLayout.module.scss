@@ -34,6 +34,8 @@
     padding: 0 16px;
     padding-bottom: var(--welcome-nav-gap);
     color: var(--welcome-text);
-    > .fake{visibility: hidden;}
+    > .fake{
+      visibility: hidden;
+    }
   }
 }
